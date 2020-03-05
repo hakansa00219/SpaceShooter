@@ -2,7 +2,7 @@
 -
 - Changed enemy sprite. (Sprites downloaded from Unity Asset Store)
 - Enemy laser AI changed/improved.
-- Background changed. Now its dynamic.
+- Background changed. Now its dynamic and changes every 5 minutes.
 - Some little player control changes.
 - Changed enemy AI. They now should be searching for player more humanly.
 
