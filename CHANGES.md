@@ -1,3 +1,8 @@
+**Hotfix 0.1.2.1 (01.04.2020)
+-
+- Fixed a game breaking bug that makes enemies does not spawn if you die in enemy phase.
+- Level interchange scene is little bit faster.
+
 **Patch 0.1.2** (31.03.2020)
 -
 - Added Random Level Generation.Every level is different and every playthrough is different.
