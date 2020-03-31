@@ -1,4 +1,4 @@
-**Hotfix 0.1.2.1 ** (01.04.2020)
+**Hotfix 0.1.2.1** (01.04.2020)
 -
 - Fixed a game breaking bug that makes enemies does not spawn if you die in enemy phase.
 - Level interchange scene is little bit faster.
