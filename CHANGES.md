@@ -1,3 +1,8 @@
+**Patch 0.1.3** (08.04.2020)
+-
+- Changed GAME-OVER scene. Added buttons EXIT,RESTART,MAIN MENU.
+- Added Scoreboard to the GAME-OVER scene. Also added a button to reset scoreboard. Scores saved locally and the best score is saved for that username(Username function is going to be still added).
+
 **Hotfix 0.1.2.1** (01.04.2020)
 -
 - Fixed a game breaking bug that makes enemies does not spawn if you die in enemy phase.
